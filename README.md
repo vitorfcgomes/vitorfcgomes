@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">My name's Vitor, I'm 20 years old. I'm passionate of technology and I study Systems Analysis and Development. I'm expanding my programming knowledge with Java and BackEnd.</h6>
+<h3 align="left">My name's Vitor, I'm 20 years old. I'm passionate of technology and I study Systems Analysis and Development. I'm expanding my programming knowledge with Java and BackEnd.</h3>
 
 ###
 
@@ -49,14 +49,6 @@
   <a href="vrferreiragomes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=20&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=THANKS%20YOU%20FOR%20VIEWING%20MY%20PROFILE&descSize=15&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
 ###
