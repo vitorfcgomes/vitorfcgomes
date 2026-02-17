@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">𝙱𝚊𝚌𝚔 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h4>
 
 ###
@@ -11,8 +9,6 @@
 <h6 align="left">My name's Vitor, I'm 20 years old. I'm passionate of technology and I study Systems Analysis and Development. I'm expanding my programming knowledge with Java and BackEnd.</h6>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">🖥️​Tech Stacks</h3>
 
@@ -57,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vitorfcgomes/vitorfcgomes/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div>
@@ -68,18 +60,3 @@
 </div>
 
 ###
-
-<!--
-**vitorfcgomes/vitorfcgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
