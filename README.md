@@ -7,7 +7,7 @@
 <h3 align="left">👋 About Me</h3>
 
 <p align="left">
-I'm a 20-year-old Software Development student passionate about technology and problem solving.
+I'm a Software Development student passionate about technology and problem solving.
 Currently focused on Back-End development with Java and Spring Boot,
 building RESTful APIs following clean architecture principles and best practices.
 I’m constantly improving my skills in software design, databases and scalable systems.
@@ -35,7 +35,7 @@ I’m constantly improving my skills in software design, databases and scalable 
 
 ---
 
-<h3 align="left">📌 Current Focus</h3>
+<h3 align="left"> Current Focus</h3>
 
 <ul align="left">
   <li>REST API development with Spring Boot</li>
