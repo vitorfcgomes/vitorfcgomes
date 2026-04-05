@@ -35,17 +35,6 @@ I’m constantly improving my skills in software design, databases and scalable 
 
 ---
 
-<h3 align="left"> Current Focus</h3>
-
-<ul align="left">
-  <li>REST API development with Spring Boot</li>
-  <li>Database modeling and JPA/Hibernate</li>
-  <li>Clean code and layered architecture</li>
-  <li>Improving English for technical communication</li>
-</ul>
-
----
-
 <h3 align="left">📲 Connect With Me</h3>
 
 <div align="left">
