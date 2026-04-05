@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">👋 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 <p align="left">
 I'm a Software Development student passionate about technology and problem solving.
@@ -15,7 +15,7 @@ I’m constantly improving my skills in software design, databases and scalable 
 
 ---
 
-<h3 align="left">🖥️ Tech Stack</h3>
+<h3 align="left"> Tech Stack</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"/>
@@ -63,5 +63,5 @@ I’m constantly improving my skills in software design, databases and scalable 
 ---
 
 <p align="left">
-🚀 Always learning, building and evolving as a developer.
+ Always learning, building and evolving as a developer.
 </p>
