@@ -1,4 +1,4 @@
-<h1 align="left"> Vitor Carvalho</h1>
+<h1 align="left"> 💻 Vitor Carvalho</h1>
 
 <h3 align="left">Back-End Developer | Java & Spring</h3>
 
